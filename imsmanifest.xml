@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest identifier="_6RQjSMBD8SQ" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+<manifest identifier="_6NuIqrVftDF" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
   <metadata>
     <schema>ADL SCORM</schema>
     <schemaversion>1.2</schemaversion>
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">EG.G4.SCI.SEM2.UB.T1.S2.7</langstring>
+          <langstring xml:lang="x-none">EG.G4.SCI.SEM2.UB.T1.S2.7 (Q2)</langstring>
         </title>
       </general>
       <lifecycle>
@@ -50,16 +50,16 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="EG.G4.SCI.SEM2.UB.T1.S2.7_ORG">
-    <organization identifier="EG.G4.SCI.SEM2.UB.T1.S2.7_ORG">
-      <title>EG.G4.SCI.SEM2.UB.T1.S2.7</title>
-      <item identifier="EG.G4.ESCI.SEM2.UB.T1.S2.6_SCO" isvisible="true" identifierref="__6RQjSMBD8SQ_RES">
-        <title>EG.G4.SCI.SEM2.UB.T1.S2.7</title>
+  <organizations default="EG.G4.SCI.SEM2.UB.T1.S2.7_(Q2)_ORG">
+    <organization identifier="EG.G4.SCI.SEM2.UB.T1.S2.7_(Q2)_ORG">
+      <title>EG.G4.SCI.SEM2.UB.T1.S2.7 (Q2)</title>
+      <item identifier="EG.G4.ESCI.SEM2.UB.T1.S2.6_SCO" isvisible="true" identifierref="__6NuIqrVftDF_RES">
+        <title>EG.G4.SCI.SEM2.UB.T1.S2.7 (Q2)</title>
       </item>
     </organization>
   </organizations>
   <resources>
-    <resource identifier="__6RQjSMBD8SQ_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+    <resource identifier="__6NuIqrVftDF_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
       <file href="story_content/thumbnail.jpg" />
       <file href="mobile/67gzMdPZ598.png" />
       <file href="mobile/5j2gPFdoYna.png" />
